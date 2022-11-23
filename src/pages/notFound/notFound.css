@@ -1,0 +1,24 @@
+.notfound-container{
+    text-align: center;
+    padding-top: 8rem;
+
+}
+
+.notfound-container .btn{
+    margin-top: 2rem;
+    display: inline-block;
+}
+
+/*media queries medium device*/
+@media screen and (max-width: 1024px){
+    .notfound-container{
+        text-align: center;
+        padding-top: 4rem;
+    
+    }
+    .notfound-container .btn{
+        margin-top: 2rem;
+        margin-bottom: 4rem;
+    }
+    
+}
